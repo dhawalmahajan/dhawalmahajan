@@ -7,7 +7,7 @@
 
 <h1 align="center">Hi 👋, I'm Dhawal Mahajan</h1>
   <img src="https://komarev.com/ghpvc/?username=dhawalmahajan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/> 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=19&pause=1000&multiline=true&width=435&lines=An+iOS+App+Developer%2C+Web+Developer%2FDesigner+%26+Backend+Engineer+from+India" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=19&pause=1000&multiline=true&width=435&lines=An+iOS+App+Developer%2C+Web+Developer;Web+Designer+%26+Backend+Engineer" alt="Typing SVG" /></a>
 
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
