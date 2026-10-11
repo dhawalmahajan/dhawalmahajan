@@ -21,17 +21,6 @@
   />
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=iOS+App+Developer;Web+Developer+%26+Designer;Backend+Engineer;Exploring+Android+%26+Rust"
-      alt="Typing SVG"
-    />
-  </a>
-</p>
-
----
-
 <!-- ==================== ABOUT ME ==================== -->
 
 <img
@@ -41,24 +30,21 @@
   src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"
 />
 
-### 👨‍💻 About Me
-
-- 💼 I work on **iOS apps, backend systems, and web development**.
-- 🌱 I'm currently learning **Android development and Rust**.
-- 📱 Experienced in **Swift, SwiftUI, UIKit, and iOS application development**.
-- 🌐 Interested in **React, TypeScript, backend engineering, and system design**.
-- 🛠️ I enjoy building scalable applications and exploring new technologies.
-- 📫 Reach me at **dhawal.mahajan1@gmail.com**.
-- 🌍 Check out my [Portfolio Website](https://dhawalmahajan.vercel.app/).
-- ⚡ Fun fact: **I will turn you into a coffee lover! ☕**
-
-<br clear="right"/>
-
----
+<h3>👨‍💻 About Me</h3>
+<ul>
+  <li>💼 I work on <strong>iOS apps, backend systems, and web development</strong>.</li>
+  <li>🌱 I'm currently learning <strong>Android development and Rust</strong>.</li>
+  <li>📱 Experienced in <strong>Swift, SwiftUI, UIKit, and iOS application development</strong>.</li>
+  <li>🌐 Interested in <strong>React, TypeScript, backend engineering, and system design</strong>.</li>
+  <li>🛠️ I enjoy building scalable applications and exploring new technologies.</li>
+  <li>📫 Reach me at <strong>dhawal.mahajan1@gmail.com</strong>.</li>
+  <li>🌍 Check out my <a href="https://dhawalmahajan.vercel.app/">Portfolio Website</a>.</li>
+  <li>⚡ Fun fact: <strong>I will turn you into a coffee lover! ☕</strong></li>
+</ul>
 
 <!-- ==================== CONNECT WITH ME ==================== -->
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
  <a href="https://www.linkedin.com/in/dhawal-mahajan-7ba1ba109/" target="_blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"
@@ -72,14 +58,12 @@
       alt="GitHub"
     />
   </a>
-
 <a href="https://dhawalmahajan.vercel.app/"
     target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=flat&logo=googlechrome&logoColor=white"
       alt="Portfolio"
     />
 </a>
-
   <a href="mailto:dhawal.mahajan1@gmail.com">
     <img
       src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"
@@ -87,7 +71,6 @@
     />
   </a>
 </p>
----
 
 <!-- ==================== TECHNOLOGIES ==================== -->
 
@@ -205,36 +188,21 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
----
-
 <!-- ==================== GITHUB STATISTICS ==================== -->
 
 <h2 align="center">📊 GitHub Statistics</h2>
-
-<div align="center">
-
 <img
     src="https://github-readme-stats.shion.dev/api?username=dhawalmahajan&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
     alt="GitHub Stats"
   />
-
-<br/><br/>
-
 <img
     src="https://streak-stats.demolab.com/?user=dhawalmahajan&theme=github-dark-blue&hide_border=true"
     alt="GitHub Streak"
   />
-
-<br/><br/>
-
 <img
     src="https://github-readme-stats.shion.dev/api/top-langs/?username=dhawalmahajan&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
     alt="Most Used Languages"
   />
-
-</div>
-
----
 
 <!-- ==================== FOOTER ==================== -->
 
