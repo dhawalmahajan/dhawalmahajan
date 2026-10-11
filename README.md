@@ -1,5 +1,4 @@
 <!-- ==================== PROFILE HEADER ==================== -->
-
 <h1 align="center">👋 Hey! Nice to see you.</h1>
 Welcome to my page! <br>
 I am Dhawal, Full stack developer from India 🇮🇳. <br>
@@ -116,27 +115,25 @@ I am Dhawal, Full stack developer from India 🇮🇳. <br>
 
 <!-- ==================== GITHUB STATISTICS ==================== -->
 
-<h3>📊 GitHub Statistics</h3>
+### 📊 GitHub Statistics
+
 <details>
   <summary>Click to see GitHub Stats</summary>
-  <img
-      src="https://github-readme-stats.shion.dev/api?username=dhawalmahajan&hide_border=true&include_all_commits=true&count_private=true"
-      alt="GitHub Stats"
-    />
+
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=dhawalmahajan&hide_border=true&include_all_commits=true&count_private=true)
+
 </details>
 
 <details>
   <summary>Click to see GitHub Streak</summary>
-  <img
-      src="https://streak-stats.demolab.com/?user=dhawalmahajan&hide_border=true"
-      alt="GitHub Streak"
-    />
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=dhawalmahajan&hide_border=true)
+
 </details>
 
 <details>
   <summary>Click to see Most Used Languages</summary>
-  <img
-      src="https://github-readme-stats.shion.dev/api/top-langs/?username=dhawalmahajan&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
-      alt="Most Used Languages"
-    />
+  
+![Most Used Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=dhawalmahajan&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 </details>
