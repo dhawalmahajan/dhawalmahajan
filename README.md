@@ -1,21 +1,12 @@
 <!-- ==================== PROFILE HEADER ==================== -->
 
-<p align="center">
-  <img
-    src="https://avatars.githubusercontent.com/u/11584354?s=400&u=1477d757ba471855ddca52920c93bf0a3706e206&v=4"
-    alt="Dhawal Mahajan"
-    width="180"
-  />
-</p>
-
-<h1 align="center">Hi 👋, I'm Dhawal Mahajan</h1>
-
-<h3 align="center">
-  iOS Developer | Web Developer | Backend Engineer
-</h3>
-
-<p align="center">
-  <img
+<h1 align="center">👋 Hey! Nice to see you.</h1>
+Welcome to my page! <br>
+I am Dhawal, Full stack developer from India 🇮🇳. <br>
+<b>Thanks for visiting my profile! 😊</b>
+<br>
+<p>
+    <img
     src="https://komarev.com/ghpvc/?username=dhawalmahajan&label=Profile%20views&color=0e75b6&style=flat-square"
     alt="Profile Views"
   />
@@ -23,23 +14,13 @@
 
 <!-- ==================== ABOUT ME ==================== -->
 
-<img
-  align="right"
-  alt="Coding"
-  width="350"
-  src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"
-/>
-
-<h3>👨‍💻 About Me</h3>
+<h5>👨‍💻 About Me</h5>
 <ul>
   <li>💼 I work on <strong>iOS apps, backend systems, and web development</strong>.</li>
   <li>🌱 I'm currently learning <strong>Android development and Rust</strong>.</li>
   <li>📱 Experienced in <strong>Swift, SwiftUI, UIKit, and iOS application development</strong>.</li>
   <li>🌐 Interested in <strong>React, TypeScript, backend engineering, and system design</strong>.</li>
   <li>🛠️ I enjoy building scalable applications and exploring new technologies.</li>
-  <li>📫 Reach me at <strong>dhawal.mahajan1@gmail.com</strong>.</li>
-  <li>🌍 Check out my <a href="https://dhawalmahajan.vercel.app/">Portfolio Website</a>.</li>
-  <li>⚡ Fun fact: <strong>I will turn you into a coffee lover! ☕</strong></li>
 </ul>
 
 <!-- ==================== CONNECT WITH ME ==================== -->
@@ -78,7 +59,7 @@
 
 <!-- iOS DEVELOPMENT -->
 
-<h3 align="left">📱 iOS Development</h3>
+<!-- <h3 align="left">📱 iOS Development</h3> -->
 
 <p align="left">
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
@@ -90,24 +71,12 @@
   <img src="https://img.shields.io/badge/RxSwift-B7178C?style=flat-square&logo=reactivex&logoColor=white" alt="RxSwift" />
   <img src="https://img.shields.io/badge/Alamofire-EF3E36?style=flat-square&logo=swift&logoColor=white" alt="Alamofire" />
   <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=flat-square&logo=cocoapods&logoColor=white" alt="CocoaPods" />
-</p>
 
-<!-- ANDROID DEVELOPMENT -->
-
-<h3 align="left">🤖 Android Development</h3>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Android_Studio-346AC1?style=flat-square&logo=androidstudio&logoColor=white" alt="Android Studio" />
   <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
-</p>
 
-<!-- WEB DEVELOPMENT -->
-
-<h3 align="left">🌐 Web Development</h3>
-
-<p align="left">
   <img src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=323330" alt="JavaScript" />
@@ -123,13 +92,6 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass" />
   <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white" alt="Styled Components" />
   <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3&logoColor=white" alt="D3.js" />
-</p>
-
-<!-- BACKEND DEVELOPMENT -->
-
-<h3 align="left">⚙️ Backend Development</h3>
-
-<p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
@@ -138,25 +100,11 @@
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
   <img src="https://img.shields.io/badge/Apollo_GraphQL-311C87?style=flat-square&logo=apollographql&logoColor=white" alt="Apollo GraphQL" />
-</p>
-
-<!-- DATABASES -->
-
-<h3 align="left">🗄️ Databases</h3>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Core_Data-00599C?style=flat-square&logo=apple&logoColor=white" alt="Core Data" />
-</p>
-
-<!-- PROGRAMMING LANGUAGES -->
-
-<h3 align="left">💻 Programming Languages</h3>
-
-<p align="left">
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -165,13 +113,6 @@
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-</p>
-
-<!-- TOOLS AND DEVOPS -->
-
-<h3 align="left">🔧 Tools & DevOps</h3>
-
-<p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
@@ -190,7 +131,7 @@
 
 <!-- ==================== GITHUB STATISTICS ==================== -->
 
-<h2 align="center">📊 GitHub Statistics</h2>
+<h2>📊 GitHub Statistics</h2>
 <img
     src="https://github-readme-stats.shion.dev/api?username=dhawalmahajan&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
     alt="GitHub Stats"
@@ -203,11 +144,3 @@
     src="https://github-readme-stats.shion.dev/api/top-langs/?username=dhawalmahajan&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
     alt="Most Used Languages"
   />
-
-<!-- ==================== FOOTER ==================== -->
-
-<p align="center">
-  <b>Thanks for visiting my profile! 😊</b>
-  <br/>
-  <i>Let's connect, collaborate, and build something amazing.</i>
-</p>
