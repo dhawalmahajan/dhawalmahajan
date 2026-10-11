@@ -133,14 +133,14 @@ I am Dhawal, Full stack developer from India 🇮🇳. <br>
 
 <h3>📊 GitHub Statistics</h3>
 <img
-    src="https://github-readme-stats.shion.dev/api?username=dhawalmahajan&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.shion.dev/api?username=dhawalmahajan&hide_border=true&include_all_commits=true&count_private=true"
     alt="GitHub Stats"
   />
 <img
-    src="https://streak-stats.demolab.com/?user=dhawalmahajan&theme=github-dark-blue&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=dhawalmahajan&hide_border=true"
     alt="GitHub Streak"
   />
 <img
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=dhawalmahajan&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=dhawalmahajan&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
     alt="Most Used Languages"
   />
