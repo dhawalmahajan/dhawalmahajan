@@ -14,7 +14,7 @@ I am Dhawal, Full stack developer from India 🇮🇳. <br>
 
 <!-- ==================== ABOUT ME ==================== -->
 
-<h5>👨‍💻 About Me</h5>
+<h3>👨‍💻 About Me</h3>
 <ul>
   <li>💼 I work on <strong>iOS apps, backend systems, and web development</strong>.</li>
   <li>🌱 I'm currently learning <strong>Android development and Rust</strong>.</li>
@@ -55,7 +55,7 @@ I am Dhawal, Full stack developer from India 🇮🇳. <br>
 
 <!-- ==================== TECHNOLOGIES ==================== -->
 
-<h2 align="left">🛠️ Things I Code With</h2>
+<h3 align="left">🛠️ Things I Code With</h3>
 
 <!-- iOS DEVELOPMENT -->
 
@@ -131,7 +131,7 @@ I am Dhawal, Full stack developer from India 🇮🇳. <br>
 
 <!-- ==================== GITHUB STATISTICS ==================== -->
 
-<h2>📊 GitHub Statistics</h2>
+<h3>📊 GitHub Statistics</h3>
 <img
     src="https://github-readme-stats.shion.dev/api?username=dhawalmahajan&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
     alt="GitHub Stats"
