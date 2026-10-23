@@ -120,6 +120,8 @@ I am Dhawal, Full stack developer from India 🇮🇳. <br>
 <details>
   <summary>Click to see GitHub Stats</summary>
 
+<br />
+
 ![GitHub Stats](https://github-readme-stats.shion.dev/api?username=dhawalmahajan&hide_border=true&include_all_commits=true&count_private=true)
 
 </details>
@@ -127,13 +129,17 @@ I am Dhawal, Full stack developer from India 🇮🇳. <br>
 <details>
   <summary>Click to see GitHub Streak</summary>
 
+<br />
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=dhawalmahajan&hide_border=true)
 
 </details>
 
 <details>
   <summary>Click to see Most Used Languages</summary>
-  
+
+<br />
+
 ![Most Used Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=dhawalmahajan&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </details>
