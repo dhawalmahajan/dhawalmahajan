@@ -120,20 +120,35 @@ I am Dhawal, Full stack developer from India 🇮🇳. <br>
 <details>
   <summary>Click to see GitHub Stats</summary>
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=dhawalmahajan&hide_border=true&include_all_commits=true&count_private=true)
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=dhawalmahajan&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=github_dark" />
+  <img src="https://github-readme-stats.shion.dev/api?username=dhawalmahajan&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=github_light" alt="GitHub Stats" />
+</picture>
 
 </details>
 
 <details>
   <summary>Click to see GitHub Streak</summary>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=dhawalmahajan&hide_border=true)
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=dhawalmahajan&amp;hide_border=true&amp;theme=github-dark-blue" />
+  <img src="https://streak-stats.demolab.com/?user=dhawalmahajan&amp;hide_border=true&amp;theme=default" alt="GitHub Streak" />
+</picture>
 
 </details>
 
 <details>
   <summary>Click to see Most Used Languages</summary>
-  
-![Most Used Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=dhawalmahajan&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=dhawalmahajan&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact&amp;theme=github_dark" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=dhawalmahajan&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact&amp;theme=github_light" alt="Most Used Languages" />
+</picture>
 
 </details>
